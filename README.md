@@ -155,11 +155,11 @@ ALLOWED_EXTENSIONS = {'png', 'jpg', 'jpeg', 'gif', 'bmp'}
 
 ## License
 
-This project is open source. Please add your preferred license.
+This project is open source.
 
 ## Support
 
-If you encounter any issues or have questions, please create an issue in the repository or contact the maintainer.
+If you encounter any issues or have questions, please create an issue in the repository or contact me.
 
 ---
 
